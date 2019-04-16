@@ -1,5 +1,5 @@
 #include <iostream>
-#include "../../cs19-lab01-master/histogram.h"
+#include "../../histogram.h"
 #include <cassert>
 
 using namespace std;
